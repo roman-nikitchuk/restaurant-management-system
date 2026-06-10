@@ -1,2 +1,5 @@
 customtkinter
+customtkinter
 psycopg2-binary
+sqlalchemy
+alembic
